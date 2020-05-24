@@ -20,9 +20,6 @@ public class Pregunta {
         int resultado = 0;
         boolean isInt = false;
         // Creo el tutor isInt. Si no salta ningún error, el tutor es true por lo que saldrá del bucle
-        /**
-         * Esta fué la consulta que te hice por mensaje. Antes utilizaba la recursividad.
-         */
         do {
             try {
                 System.out.print(texto + "\n>");
